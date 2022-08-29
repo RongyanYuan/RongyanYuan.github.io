@@ -26,15 +26,13 @@
     
     <entry>
       <title>READ ME</title>
-      <link href="/2022/08/25/README/"/>
-      <url>/2022/08/25/README/</url>
+      <link href="/2022/08/08/README/"/>
+      <url>/2022/08/08/README/</url>
       
-        <content type="html"><![CDATA[<h3 id="Note-on-blog-reading"><a href="#Note-on-blog-reading" class="headerlink" title="Note on blog reading"></a>Note on blog reading</h3><ul><li>Each blog has few categories, where the first few categories are one of, <strong>quant, math, or cs</strong>, and the very last category indicates <strong>name of the topic</strong></li><li>quant stands for category of quantitative finance; math stands for mathematics; cs stands for computer science</li><li>Every post of each topic will differentiated by the suffix that is composed of two elements: <strong>order number</strong> and <strong>content name</strong>, which can help you locate and read posts accordingly</li><li><u>More will be coming soon here</u></li></ul>]]></content>
+        <content type="html"><![CDATA[<h3 id="Note-on-blog-reading"><a href="#Note-on-blog-reading" class="headerlink" title="Note on blog reading"></a>Note on blog reading</h3><ul><li>Each blog has few categories, where the first few categories are main categories: <strong>quant, math, and cs</strong>, and the very last category indicates <strong>name of the topic</strong></li><li>Each main category will only include the first post of each topic</li><li>Note that: quant stands for category of quantitative finance; math stands for mathematics; cs stands for computer science</li><li>Every post of each topic will differentiated by the suffix that is composed of two elements: <strong>order number</strong> and <strong>content name</strong>, which can help you locate and read posts accordingly</li><li><u>More will be coming soon here</u></li></ul>]]></content>
       
       
       <categories>
-          
-          <category> readme </category>
           
           <category> quant </category>
           
